@@ -14,7 +14,7 @@ import { CategoryModule } from './categories/categories.module';
       host: 'localhost',
       port: 5432,
       username: 'postgres',
-      password: '2870',
+      password: '200923',
       database: 'cursoapi',
       entities: [User, Task, Category],
       synchronize: true,
